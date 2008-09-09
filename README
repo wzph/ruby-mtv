@@ -1,0 +1,18 @@
+This is my RUL app
+==================
+
+This is a Ruby library for the MTV api. Right now it has classes for Artists and Videos, although
+there is much to be done!
+
+Instructions
+============
+1) git clone git://github.com/tiegz/ruby-mtv.git ruby-mtv
+2) cd ruby-mtv
+3) irb -r ruby-mtv
+4) Artist.search 'beck'
+5) Video.search 'beck' (unfinished)
+
+Relevant Links
+==============
+
+MTV api docs : http://developer.mtvnservices.com/docs
